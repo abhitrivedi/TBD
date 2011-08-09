@@ -15,7 +15,7 @@
         <module>com.tbd.Indexer</module>
         <module>com.tbd.router</module>
         <module>com.tbd.utils</module>
-        <module>com.tbd.war</module>
+
     </modules>
 
     <dependencyManagement>
